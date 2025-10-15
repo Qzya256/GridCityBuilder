@@ -1,0 +1,19 @@
+{
+    "name": "Project.Buildings",
+    "rootNamespace": "",
+    "references": [
+        "GUID:251efd058755d444ca8631fb29cc43e8",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:2ed2add58adb5f6409abe59d874da800",
+        "GUID:3a603df53d3cb4c499c451dfd6e54899"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

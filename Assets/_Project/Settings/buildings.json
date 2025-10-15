@@ -1,0 +1,5 @@
+[
+  { "id": 0, "name": "House", "prefab": "Prefabs/Buildings/House", "sizeX": 1, "sizeY": 1 },
+  { "id": 1, "name": "Lumber Camp", "prefab": "Prefabs/Buildings/Lumber Camp", "sizeX": 1, "sizeY": 1 },
+  { "id": 2, "name": "Castle", "prefab": "Prefabs/Buildings/Castle", "sizeX": 2, "sizeY": 2 }
+]
